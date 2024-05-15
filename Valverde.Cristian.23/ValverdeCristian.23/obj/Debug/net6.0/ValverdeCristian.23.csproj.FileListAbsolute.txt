@@ -1,0 +1,12 @@
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\laboratorio_2_Parcial\Valverde.Cristian.23\ValverdeCristian.23\bin\Debug\net6.0\ValverdeCristian.23.deps.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\laboratorio_2_Parcial\Valverde.Cristian.23\ValverdeCristian.23\bin\Debug\net6.0\ValverdeCristian.23.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\laboratorio_2_Parcial\Valverde.Cristian.23\ValverdeCristian.23\bin\Debug\net6.0\ValverdeCristian.23.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\laboratorio_2_Parcial\Valverde.Cristian.23\ValverdeCristian.23\obj\Debug\net6.0\ValverdeCristian.23.csproj.AssemblyReference.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\laboratorio_2_Parcial\Valverde.Cristian.23\ValverdeCristian.23\obj\Debug\net6.0\ValverdeCristian.23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\laboratorio_2_Parcial\Valverde.Cristian.23\ValverdeCristian.23\obj\Debug\net6.0\ValverdeCristian.23.AssemblyInfoInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\laboratorio_2_Parcial\Valverde.Cristian.23\ValverdeCristian.23\obj\Debug\net6.0\ValverdeCristian.23.AssemblyInfo.cs
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\laboratorio_2_Parcial\Valverde.Cristian.23\ValverdeCristian.23\obj\Debug\net6.0\ValverdeCristian.23.csproj.CoreCompileInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\laboratorio_2_Parcial\Valverde.Cristian.23\ValverdeCristian.23\obj\Debug\net6.0\ValverdeCristian.23.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\laboratorio_2_Parcial\Valverde.Cristian.23\ValverdeCristian.23\obj\Debug\net6.0\refint\ValverdeCristian.23.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\laboratorio_2_Parcial\Valverde.Cristian.23\ValverdeCristian.23\obj\Debug\net6.0\ValverdeCristian.23.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\laboratorio_2_Parcial\Valverde.Cristian.23\ValverdeCristian.23\obj\Debug\net6.0\ref\ValverdeCristian.23.dll
